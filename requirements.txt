@@ -1,0 +1,2 @@
+# MacroTracker currently uses only Python standard-library modules.
+# Keep this file so Render has a requirements file to install from.
